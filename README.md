@@ -1,4 +1,4 @@
-<img width="1080" height="1920" alt="Screenshot_1758760329" src="https://github.com/user-attachments/assets/1b9a5779-e69e-405c-80a5-b534b249632d" /># 🚀 Welcome to the Anime UI — Flutter UI Challenge (task for testing) repository!
+# 🚀 Welcome to the Anime UI — Flutter UI Challenge (task for testing) repository!
 
 
 # 🔧 Project Overview
